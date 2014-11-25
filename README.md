@@ -1,6 +1,6 @@
 # Rails Scaffold
 
-https://polar-peak-4659.herokuapp.com
+
 
 ## Stories
 

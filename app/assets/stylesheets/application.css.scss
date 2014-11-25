@@ -19,3 +19,7 @@
 body {
   padding-top: 60px;
 }
+
+table {
+  @extend .table;
+}
